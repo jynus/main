@@ -91,14 +91,12 @@ stack-data==0.3.0
 toml==0.10.2
     # via vulture
 tomli==2.0.1
-    # via
-    #   black
-    #   pytest
+    # via pytest
 traitlets==5.3.0
     # via
     #   ipython
     #   matplotlib-inline
-vulture==2.5
+vulture==2.9
     # via -r requirements-dev.in
 wcwidth==0.2.5
     # via prompt-toolkit
