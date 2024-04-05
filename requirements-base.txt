@@ -32,7 +32,7 @@ bcrypt==3.2.2
     # via -r requirements-base.in
 blis==0.7.8
     # via thinc
-cachetools==5.2.0
+cachetools==5.3.3
     # via
     #   -r requirements-base.in
     #   google-auth
@@ -401,6 +401,7 @@ typing-extensions==4.3.0
     # via
     #   pydantic
     #   schemathesis
+    #   starlette
 uritemplate==4.1.1
     # via google-api-python-client
 urllib3==1.26.11
